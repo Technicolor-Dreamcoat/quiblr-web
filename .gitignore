@@ -2,6 +2,7 @@ dist
 .fusebox
 _site
 .alm
+.env
 .history
 .git
 build
