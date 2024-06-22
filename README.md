@@ -1,6 +1,3 @@
-# Quiblr (web)
-
-The official Quiblr web app currently for [Lemmy](https://github.com/LemmyNet/lemmy).
 
 ## Configuration
 
